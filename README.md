@@ -1,9 +1,4 @@
-# Social-Media-Performance-Analysis
-Social media success isn't determined by posting more content—it's determined by posting the right content, on the right platform, at the right time. The purpose of this project was to analyze historical social media performance data and identify the factors influencing audience engagement, visibility, and follower growth.
 
-![Dashboard](Social Media 1.png)
-
-![Dashboard](Social Media 2.png)
 
 # Turning Millions of Impressions into Business Insights
 
@@ -18,6 +13,36 @@ In this project, I transformed **450 individual social media posts** into a perf
 Rather than relying on assumptions or vanity metrics, this analysis uncovered measurable patterns hidden inside millions of audience interactions.
 
 ---
+
+## 📑 Table of Contents
+
+* [Project Introduction](#-project-introduction)
+* [Data Foundation](#️-data-foundation)
+  * [Dataset Variables](#dataset-variables)
+  * [Calculated Fields](#-calculated-fields)
+* [Executive Summary of Results](#-executive-summary-of-results)
+* [Overall Performance KPIs](#-overall-performance-kpis)
+* [What the Data Actually Shows](#-what-the-data-actually-shows)
+
+  * [1. TikTok Leads](#1-tiktok-leads--and-its-not-particularly-close)
+  * [2. Video Is the Format That Moves People](#2-video-is-the-format-that-moves-people)
+  * [3. Campaigns Are Not Created Equal](#3-campaigns-are-not-created-equal)
+  * [4. When You Post Matters](#4-when-you-post-matters-more-than-weve-been-treating-it)
+  * [5. Boosting Works](#5-boosting-works--but-only-if-youre-selective)
+  * [6. One Number to Watch](#6-one-number-to-watch)
+* [Recommendations](#-recommendations)
+
+  * [1. Invest More in TikTok](#1-invest-more-in-tiktok)
+  * [2. Make Video the Default](#2-make-video-the-default)
+  * [3. Replicate the Summer Vibes Blueprint](#3-replicate-the-summer-vibes-blueprint)
+  * [4. Lock in Afternoon Publishing](#4-lock-in-afternoon-publishing)
+  * [5. Boost Based on Performance](#5-boost-based-on-performance-not-plan)
+  * [6. Set a Follower Conversion Target](#6-set-a-follower-conversion-target)
+* [Final Thought](#-final-thought)
+* [Conclusion](#-conclusion)
+
+---
+
 
 ## 📌 Project Introduction
 
@@ -404,4 +429,20 @@ Using **Microsoft Excel**, thousands of individual performance records were conv
 Behind the **13 million impressions** and **870,000 engagements** lies a deeper story:
 
 > **Audiences reward relevance, timing, and quality far more than sheer posting volume.**
+
+# Turning Millions of Impressions into Business Insights
+
+> **"Data rarely lies—but it often whispers. The real skill is learning how to make it speak."**
+
+Every like, comment, share, and impression tells a small story. Individually, those stories are insignificant. Together, they reveal exactly how audiences behave, what content earns attention, and where marketing efforts create real business value.
+
+In this project, I transformed **450 individual social media posts** into a performance intelligence dashboard capable of answering one simple but powerful question:
+
+> **What actually drives engagement?**
+
+Rather than relying on assumptions or vanity metrics, this analysis uncovered measurable patterns hidden inside millions of audience interactions.
+
+---
+
+
 
